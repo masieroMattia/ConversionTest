@@ -1,0 +1,14 @@
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\bin\Debug\net8.0\ConversionTest.exe
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\bin\Debug\net8.0\ConversionTest.deps.json
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\bin\Debug\net8.0\ConversionTest.runtimeconfig.json
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\bin\Debug\net8.0\ConversionTest.dll
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\bin\Debug\net8.0\ConversionTest.pdb
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ConversionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ConversionTest.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ConversionTest.AssemblyInfo.cs
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ConversionTest.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ConversionTest.dll
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\refint\ConversionTest.dll
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ConversionTest.pdb
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ConversionTest.genruntimeconfig.cache
+C:\Users\matti\Desktop\DBGA\Git\ConversionTest\ConversionTest\obj\Debug\net8.0\ref\ConversionTest.dll
