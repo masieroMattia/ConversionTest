@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matti\\.nuget\\packages\\": {}
+    "C:\\Users\\dbga_095\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matti\\Desktop\\DBGA\\Git\\ConversionTest\\ConversionTest\\ConversionTest.csproj",
+      "projectUniqueName": "D:\\Git\\Code\\ConversionTest\\ConversionTest\\ConversionTest.csproj",
       "projectName": "ConversionTest",
-      "projectPath": "C:\\Users\\matti\\Desktop\\DBGA\\Git\\ConversionTest\\ConversionTest\\ConversionTest.csproj",
-      "packagesPath": "C:\\Users\\matti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matti\\Desktop\\DBGA\\Git\\ConversionTest\\ConversionTest\\obj\\",
+      "projectPath": "D:\\Git\\Code\\ConversionTest\\ConversionTest\\ConversionTest.csproj",
+      "packagesPath": "C:\\Users\\dbga_095\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\Code\\ConversionTest\\ConversionTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dbga_095\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

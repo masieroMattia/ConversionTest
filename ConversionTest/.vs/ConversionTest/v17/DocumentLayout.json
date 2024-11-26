@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matti\\Desktop\\DBGA\\Git\\ConversionTest\\ConversionTest\\",
+  "WorkspaceRootPath": "D:\\Git\\Code\\ConversionTest\\ConversionTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{450A68F2-FB5D-4B48-83BB-42150761629C}|ConversionTest.csproj|c:\\users\\matti\\desktop\\dbga\\git\\conversiontest\\conversiontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{450A68F2-FB5D-4B48-83BB-42150761629C}|ConversionTest.csproj|d:\\git\\code\\conversiontest\\conversiontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{450A68F2-FB5D-4B48-83BB-42150761629C}|ConversionTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\DBGA\\Git\\ConversionTest\\ConversionTest\\Program.cs",
+              "DocumentMoniker": "D:\\Git\\Code\\ConversionTest\\ConversionTest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\DBGA\\Git\\ConversionTest\\ConversionTest\\Program.cs",
+              "ToolTip": "D:\\Git\\Code\\ConversionTest\\ConversionTest\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T10:23:13.957Z",
               "EditorCaption": ""
